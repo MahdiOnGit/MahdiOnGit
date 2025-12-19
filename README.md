@@ -48,9 +48,9 @@ I am an AI researcher with strong expertise in **Deep Learning**, **Natural Lang
 ### 📚 Publications
 
 - **Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**  
-  *ACL Findings 2025* | [arXiv](#)
+  *ACL Findings 2025* | [arXiv](https://aclanthology.org/2025.findings-acl.861/)
 - **DIPT: Diversified Personalized Transformer for QAC systems**  
-  *IEEE*
+  *IEEE* | [IEEE](https://ieeexplore.ieee.org/document/10326229)
 
 ---
 
